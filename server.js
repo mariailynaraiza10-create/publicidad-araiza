@@ -1477,7 +1477,7 @@ app.listen(
         console.log("");
 
         console.log(
-            `🌐 Panel: http://localhost:${PORT}`
+            `🌐 Panel:https://publicidad-araiza.onrender.com/`
         );
 
         console.log("");
